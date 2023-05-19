@@ -1,4 +1,4 @@
-# Clothing Item Price Prediction
+# Clothing Item Price Prediction 👚💰
 
 **Data science project**
 
