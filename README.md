@@ -4,6 +4,8 @@
 
 In this study project, the prediction of sale prices for clothing items using data science techniques is addressed. The main objective was to develop a regression model capable of predicting prices based on product characteristics. To achieve this, a comprehensive process was carried out, involving data acquisition from web sources, thorough exploration, rigorous preprocessing, and comparison of different regression techniques, including multiple linear regression, decision trees, and random forests. The obtained results provide valuable insights into the intricacies of price modeling in the fashion industry, offering valuable insights that can be useful for companies and stores in the sector.
 
+![Logo](logo.jpg)
+
 ## Requirements
 
 Python 3.9
